@@ -1,0 +1,23 @@
+{
+  "name": "Motor",
+  "authors": [
+    "PeteCoward <peter.coward@gmail.com>"
+  ],
+  "description": "try use Motor",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "^2.4.0",
+    "jquery": "^2.2.3"
+  }
+}
